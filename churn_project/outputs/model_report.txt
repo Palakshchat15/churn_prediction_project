@@ -1,0 +1,57 @@
+CELL2CELL CHURN MODEL EVALUATION REPORT
+=======================================================
+
+MODEL: LOGISTIC_REGRESSION
+----------------------------------------
+ROC-AUC  : 0.5867
+PR-AUC   : 0.3637
+F1 Macro : 0.5148
+F1 Churn : 0.2183
+KS Stat  : 0.1299
+
+              precision    recall  f1-score   support
+
+ Not Churned       0.73      0.92      0.81      5450
+     Churned       0.42      0.15      0.22      2207
+
+    accuracy                           0.70      7657
+   macro avg       0.57      0.53      0.51      7657
+weighted avg       0.64      0.70      0.64      7657
+
+
+MODEL: XGBOOST
+----------------------------------------
+ROC-AUC  : 0.6616
+PR-AUC   : 0.4438
+F1 Macro : 0.5819
+F1 Churn : 0.4748
+KS Stat  : 0.2282
+
+              precision    recall  f1-score   support
+
+ Not Churned       0.79      0.61      0.69      5450
+     Churned       0.39      0.61      0.47      2207
+
+    accuracy                           0.61      7657
+   macro avg       0.59      0.61      0.58      7657
+weighted avg       0.68      0.61      0.63      7657
+
+
+MODEL: LIGHTGBM
+----------------------------------------
+ROC-AUC  : 0.6630
+PR-AUC   : 0.4391
+F1 Macro : 0.5503
+F1 Churn : 0.2788
+KS Stat  : 0.2291
+
+              precision    recall  f1-score   support
+
+ Not Churned       0.74      0.93      0.82      5450
+     Churned       0.51      0.19      0.28      2207
+
+    accuracy                           0.71      7657
+   macro avg       0.63      0.56      0.55      7657
+weighted avg       0.67      0.71      0.67      7657
+
+

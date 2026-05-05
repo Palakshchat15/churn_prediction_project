@@ -1,5 +1,24 @@
-churn_project/outputs/
-*.html
-*.csv
-*.pdf
+# ─── Python ────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
 .env
+
+# ─── Data & Outputs ────────────────────────────────────────────────
+# Ignore large raw data but keep the structure
+!churn_project/data/raw/.gitkeep
+churn_project/data/processed/
+
+# Ignore local outputs but keep the folder
+churn_project/outputs/analyst_plots/
+*.html
+*.pdf
+*.csv
+
+# ─── IDEs ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
