@@ -2,3 +2,4 @@ churn_project/outputs/
 *.html
 *.csv
 *.pdf
+.env
