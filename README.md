@@ -46,5 +46,5 @@ churn_project/
 3.  **Update Tableau**: Open `.twb` and click **Refresh**.
 
 ---
-**Author**: [Your Name/GitHub Profile]  
+**Author**: Palaksh Chaturvedi
 **Goal**: Demonstrating the transition from raw data to business intelligence through SQL and Data Storytelling.
