@@ -1,0 +1,242 @@
+[
+  {
+    "id": "segment_CreditRating_1",
+    "text": "Segment summary: CreditRating=1. Total customers: 8,522. Churn rate: 30.8%. Average monthly revenue: $51.91. Average monthly minutes: 396. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "CreditRating",
+      "segment_val": "1",
+      "churn_rate": 0.3083783149495424
+    }
+  },
+  {
+    "id": "segment_CreditRating_2",
+    "text": "Segment summary: CreditRating=2. Total customers: 18,992. Churn rate: 30.1%. Average monthly revenue: $52.17. Average monthly minutes: 434. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "CreditRating",
+      "segment_val": "2",
+      "churn_rate": 0.3007582139848357
+    }
+  },
+  {
+    "id": "segment_CreditRating_3",
+    "text": "Segment summary: CreditRating=3. Total customers: 8,410. Churn rate: 31.0%. Average monthly revenue: $61.39. Average monthly minutes: 567. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "CreditRating",
+      "segment_val": "3",
+      "churn_rate": 0.31010701545778835
+    }
+  },
+  {
+    "id": "segment_CreditRating_4",
+    "text": "Segment summary: CreditRating=4. Total customers: 5,357. Churn rate: 26.1%. Average monthly revenue: $64.39. Average monthly minutes: 629. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "CreditRating",
+      "segment_val": "4",
+      "churn_rate": 0.261153630763487
+    }
+  },
+  {
+    "id": "segment_CreditRating_5",
+    "text": "Segment summary: CreditRating=5. Total customers: 6,499. Churn rate: 22.1%. Average monthly revenue: $69.72. Average monthly minutes: 718. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "CreditRating",
+      "segment_val": "5",
+      "churn_rate": 0.22095707031851053
+    }
+  },
+  {
+    "id": "segment_CreditRating_6",
+    "text": "Segment summary: CreditRating=6. Total customers: 1,152. Churn rate: 27.4%. Average monthly revenue: $64.87. Average monthly minutes: 572. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "CreditRating",
+      "segment_val": "6",
+      "churn_rate": 0.2743055555555556
+    }
+  },
+  {
+    "id": "segment_CreditRating_7",
+    "text": "Segment summary: CreditRating=7. Total customers: 2,114. Churn rate: 28.9%. Average monthly revenue: $63.30. Average monthly minutes: 674. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "CreditRating",
+      "segment_val": "7",
+      "churn_rate": 0.28949858088930935
+    }
+  },
+  {
+    "id": "segment_TenureBucket_0",
+    "text": "Segment summary: TenureBucket=0. Total customers: 14,238. Churn rate: 24.0%. Average monthly revenue: $59.06. Average monthly minutes: 587. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "TenureBucket",
+      "segment_val": "0",
+      "churn_rate": 0.2402725101840146
+    }
+  },
+  {
+    "id": "segment_TenureBucket_1",
+    "text": "Segment summary: TenureBucket=1. Total customers: 22,984. Churn rate: 31.8%. Average monthly revenue: $57.51. Average monthly minutes: 509. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "TenureBucket",
+      "segment_val": "1",
+      "churn_rate": 0.3184389140271493
+    }
+  },
+  {
+    "id": "segment_TenureBucket_2",
+    "text": "Segment summary: TenureBucket=2. Total customers: 13,124. Churn rate: 28.9%. Average monthly revenue: $56.96. Average monthly minutes: 459. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "TenureBucket",
+      "segment_val": "2",
+      "churn_rate": 0.28878390734532156
+    }
+  },
+  {
+    "id": "segment_TenureBucket_3",
+    "text": "Segment summary: TenureBucket=3. Total customers: 700. Churn rate: 25.9%. Average monthly revenue: $65.29. Average monthly minutes: 611. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "TenureBucket",
+      "segment_val": "3",
+      "churn_rate": 0.25857142857142856
+    }
+  },
+  {
+    "id": "segment_MaritalStatus_-1",
+    "text": "Segment summary: MaritalStatus=-1. Total customers: 19,699. Churn rate: 30.2%. Average monthly revenue: $61.92. Average monthly minutes: 595. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "MaritalStatus",
+      "segment_val": "-1",
+      "churn_rate": 0.3018934971318341
+    }
+  },
+  {
+    "id": "segment_MaritalStatus_0",
+    "text": "Segment summary: MaritalStatus=0. Total customers: 12,696. Churn rate: 27.1%. Average monthly revenue: $59.77. Average monthly minutes: 549. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "MaritalStatus",
+      "segment_val": "0",
+      "churn_rate": 0.2710302457466919
+    }
+  },
+  {
+    "id": "segment_MaritalStatus_1",
+    "text": "Segment summary: MaritalStatus=1. Total customers: 18,651. Churn rate: 28.5%. Average monthly revenue: $52.41. Average monthly minutes: 419. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "MaritalStatus",
+      "segment_val": "1",
+      "churn_rate": 0.2854002466355691
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_0",
+    "text": "Segment summary: IncomeGroup=0. Total customers: 12,834. Churn rate: 30.2%. Average monthly revenue: $63.39. Average monthly minutes: 625. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "0",
+      "churn_rate": 0.30232195730091943
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_1",
+    "text": "Segment summary: IncomeGroup=1. Total customers: 2,039. Churn rate: 29.1%. Average monthly revenue: $62.01. Average monthly minutes: 614. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "1",
+      "churn_rate": 0.29131927415399705
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_2",
+    "text": "Segment summary: IncomeGroup=2. Total customers: 1,198. Churn rate: 29.6%. Average monthly revenue: $58.62. Average monthly minutes: 567. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "2",
+      "churn_rate": 0.29632721202003337
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_3",
+    "text": "Segment summary: IncomeGroup=3. Total customers: 2,991. Churn rate: 26.3%. Average monthly revenue: $59.57. Average monthly minutes: 566. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "3",
+      "churn_rate": 0.26312270143764627
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_4",
+    "text": "Segment summary: IncomeGroup=4. Total customers: 4,053. Churn rate: 27.7%. Average monthly revenue: $56.87. Average monthly minutes: 505. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "4",
+      "churn_rate": 0.27658524549716257
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_5",
+    "text": "Segment summary: IncomeGroup=5. Total customers: 4,262. Churn rate: 28.3%. Average monthly revenue: $56.07. Average monthly minutes: 496. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "5",
+      "churn_rate": 0.28273111215391833
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_6",
+    "text": "Segment summary: IncomeGroup=6. Total customers: 9,607. Churn rate: 28.4%. Average monthly revenue: $54.58. Average monthly minutes: 462. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "6",
+      "churn_rate": 0.2835432497137504
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_7",
+    "text": "Segment summary: IncomeGroup=7. Total customers: 5,877. Churn rate: 29.8%. Average monthly revenue: $55.12. Average monthly minutes: 466. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "7",
+      "churn_rate": 0.2979411264250468
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_8",
+    "text": "Segment summary: IncomeGroup=8. Total customers: 2,622. Churn rate: 27.7%. Average monthly revenue: $56.19. Average monthly minutes: 468. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "8",
+      "churn_rate": 0.2765064836003051
+    }
+  },
+  {
+    "id": "segment_IncomeGroup_9",
+    "text": "Segment summary: IncomeGroup=9. Total customers: 5,563. Churn rate: 28.2%. Average monthly revenue: $54.39. Average monthly minutes: 413. Churn risk level: MEDIUM.",
+    "metadata": {
+      "type": "segment",
+      "segment_col": "IncomeGroup",
+      "segment_val": "9",
+      "churn_rate": 0.28204206363472945
+    }
+  }
+]

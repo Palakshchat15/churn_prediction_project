@@ -1,0 +1,146 @@
+[
+  {
+    "id": "feature_CustomerID",
+    "text": "Feature 'CustomerID': Unique identifier for each customer. Used to look up specific customers in the database.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "CustomerID"
+    }
+  },
+  {
+    "id": "feature_MonthlyRevenue",
+    "text": "Feature 'MonthlyRevenue': Total revenue the customer generates each month in dollars.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "MonthlyRevenue"
+    }
+  },
+  {
+    "id": "feature_MonthlyMinutes",
+    "text": "Feature 'MonthlyMinutes': Total minutes the customer used in the billing month.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "MonthlyMinutes"
+    }
+  },
+  {
+    "id": "feature_TotalRecurringCharge",
+    "text": "Feature 'TotalRecurringCharge': Fixed monthly charge for the customer's plan.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "TotalRecurringCharge"
+    }
+  },
+  {
+    "id": "feature_DroppedCalls",
+    "text": "Feature 'DroppedCalls': Number of calls dropped mid-conversation.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "DroppedCalls"
+    }
+  },
+  {
+    "id": "feature_BlockedCalls",
+    "text": "Feature 'BlockedCalls': Number of outgoing calls that could not connect.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "BlockedCalls"
+    }
+  },
+  {
+    "id": "feature_CustomerCareCalls",
+    "text": "Feature 'CustomerCareCalls': Number of times the customer contacted customer care.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "CustomerCareCalls"
+    }
+  },
+  {
+    "id": "feature_RetentionCalls",
+    "text": "Feature 'RetentionCalls': Number of proactive calls made by the retention team.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "RetentionCalls"
+    }
+  },
+  {
+    "id": "feature_RetentionOffersAccepted",
+    "text": "Feature 'RetentionOffersAccepted': Number of retention offers the customer accepted.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "RetentionOffersAccepted"
+    }
+  },
+  {
+    "id": "feature_MonthsInService",
+    "text": "Feature 'MonthsInService': Total months the customer has been subscribed.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "MonthsInService"
+    }
+  },
+  {
+    "id": "feature_CreditRating",
+    "text": "Feature 'CreditRating': Customer credit rating from 1 (Highest) to 6 (VeryLow).",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "CreditRating"
+    }
+  },
+  {
+    "id": "feature_OverageMinutes",
+    "text": "Feature 'OverageMinutes': Extra minutes used beyond the plan allowance.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "OverageMinutes"
+    }
+  },
+  {
+    "id": "feature_DropRate",
+    "text": "Feature 'DropRate': Engineered: ratio of dropped calls to total minutes — proxy for call quality experience.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "DropRate"
+    }
+  },
+  {
+    "id": "feature_RevenuePerMinute",
+    "text": "Feature 'RevenuePerMinute': Engineered: revenue generated per minute of usage.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "RevenuePerMinute"
+    }
+  },
+  {
+    "id": "feature_RetentionEngagement",
+    "text": "Feature 'RetentionEngagement': Engineered: RetentionCalls x RetentionOffersAccepted — measures how engaged a customer is with retention efforts.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "RetentionEngagement"
+    }
+  },
+  {
+    "id": "feature_TenureBucket",
+    "text": "Feature 'TenureBucket': Engineered: tenure lifecycle stage — 0=New (0-12m), 1=12-24m, 2=24-48m, 3=Loyal (48m+).",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "TenureBucket"
+    }
+  },
+  {
+    "id": "feature_EquipmentAgeYears",
+    "text": "Feature 'EquipmentAgeYears': Engineered: years since the customer last upgraded their handset.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "EquipmentAgeYears"
+    }
+  },
+  {
+    "id": "feature_ServiceArea_Freq",
+    "text": "Feature 'ServiceArea_Freq': Engineered: frequency encoding of service area — proportion of all customers in the same area.",
+    "metadata": {
+      "type": "feature_description",
+      "feature": "ServiceArea_Freq"
+    }
+  }
+]
